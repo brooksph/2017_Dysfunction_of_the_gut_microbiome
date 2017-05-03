@@ -1,4 +1,4 @@
-#This script will calulate minHash signatures using sourmash at --scaled value of 10000 and k of 31
+#This script will calulate minHash signatures using sourmash at --scaled value of 1000 and k of 31
 
 #load GNU and Python
 module load GNU/6.2
@@ -10,5 +10,5 @@ source ~/env/bin/activate
 #calculate signatures
 for i in *pe.fq.gz
 do
-	~/sourmash/sourmash compute -k31 --scaled 10000 ${i} -f
+	~/sourmash/sourmash compute -k31 --scaled 1000 ${i} -f
 done
