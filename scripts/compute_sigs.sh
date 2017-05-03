@@ -10,5 +10,5 @@ source ~/env/bin/activate
 #calculate signatures
 for i in *pe.fq.gz
 do
-	~/sourmash/sourmash compute -k31 --scaled 1000 ${i} -f
+	~/sourmash/sourmash compute -k31 --scaled 10000 ${i} -f
 done
