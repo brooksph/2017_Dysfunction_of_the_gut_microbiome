@@ -1,0 +1,9 @@
+ftp://public-ftp.hmpdacc.org/Illumina/stool/SRS011061.tar.bz2
+ftp://public-ftp.hmpdacc.org/Illumina/stool/SRS011134.tar.bz2
+ftp://public-ftp.hmpdacc.org/Illumina/stool/SRS011239.tar.bz2
+ftp://public-ftp.hmpdacc.org/Illumina/stool/SRS011271.tar.bz2
+ftp://public-ftp.hmpdacc.org/Illumina/stool/SRS011302.tar.bz2
+ftp://public-ftp.hmpdacc.org/Illumina/stool/SRS011405.tar.bz2
+ftp://public-ftp.hmpdacc.org/Illumina/stool/SRS011452.tar.bz2
+ftp://public-ftp.hmpdacc.org/Illumina/stool/SRS011452.tar.bz2
+ftp://public-ftp.hmpdacc.org/Illumina/stool/SRS011452.tar.bz2

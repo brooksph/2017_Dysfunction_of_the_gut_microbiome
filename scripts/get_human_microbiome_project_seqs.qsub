@@ -1,0 +1,14 @@
+#!/bin/sh -login
+#PBS -A ged
+#PBS -l nodes=1:ppn=1
+#PBS -l walltime=4:00:00
+#PBS -l mem=40GB
+#PBS -M philliptbrooks@gmail.com
+
+cd $PBS_O_WORKDIR
+
+for i in $(cat ../scripts/human_micro_proj_seqs.txt)
+do 
+	curl ${i} | tar xvfj -
+done 
+

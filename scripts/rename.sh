@@ -1,0 +1,11 @@
+mv SRR579274_pass_1.pe.fq.gz H_SRR579274_pass_1.pe.fq.gz
+mv SRR579275_pass_1.pe.fq.gz H_SRR579275_pass_1.pe.fq.gz
+mv SRR579276_pass_1.pe.fq.gz H_SRR579276_pass_1.pe.fq.gz
+mv SRR579277_pass_1.pe.fq.gz H_SRR579277_pass_1.pe.fq.gz
+mv SRR579278_pass_1.pe.fq.gz H_SRR579278_pass_1.pe.fq.gz
+mv SRR579279_pass_1.pe.fq.gz H_SRR579279_pass_1.pe.fq.gz
+mv SRR579280_pass_1.pe.fq.gz H_SRR579280_pass_1.pe.fq.gz
+mv SRR579281_pass_1.pe.fq.gz C_SRR579281_pass_1.pe.fq.gz
+mv SRR579290_pass_1.pe.fq.gz C_SRR579290_pass_1.pe.fq.gz
+mv SRR579291_pass_1.pe.fq.gz C_SRR579291_pass_1.pe.fq.gz
+mv SRR579292_pass_1.pe.fq.gz C_SRR579292_pass_1.pe.fq.gz
