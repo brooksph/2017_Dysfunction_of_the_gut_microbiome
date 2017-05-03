@@ -1,0 +1,11 @@
+SRR579274_pass_1.pe.fq.gz.abundtrim
+SRR579275_pass_1.pe.fq.gz.abundtrim
+SRR579276_pass_1.pe.fq.gz.abundtrim
+SRR579277_pass_1.pe.fq.gz.abundtrim
+SRR579278_pass_1.pe.fq.gz.abundtrim
+SRR579279_pass_1.pe.fq.gz.abundtrim
+SRR579280_pass_1.pe.fq.gz.abundtrim
+SRR579281_pass_1.pe.fq.gz.abundtrim
+SRR579290_pass_1.pe.fq.gz.abundtrim
+SRR579291_pass_1.pe.fq.gz.abundtrim
+SRR579292_pass_1.pe.fq.gz.abundtrim
