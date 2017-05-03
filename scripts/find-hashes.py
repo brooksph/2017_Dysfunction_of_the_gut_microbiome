@@ -31,12 +31,12 @@ def main():
     n = 0
     abundant_hashes = set()
     for hash, count in counts.most_common():
-        if count < 10:
+        if count < 8:
             break
         n += 1
         abundant_hashes.add(hash)
 
-    print('found', n, 'hashes from', len(args.inp_signatures), 'signatures that had more than 10')
+    print('found', n, 'hashes from', len(args.inp_signatures), 'signatures that had more than 8')
 
     # go over the files again, this time creating an n x n_files matrix
     # with 0 etc.
